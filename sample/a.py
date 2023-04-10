@@ -14,4 +14,4 @@ class cool:
 
     def hot(self,c,v):
         print(c+v)
-
+print("done")
